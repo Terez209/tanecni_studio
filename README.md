@@ -1,4 +1,4 @@
-# tanecni studio
+# Taneční studio
 
 Jednoduchý informační systém pro členy našeho tanečního studia, zápis tréningů, soutěží a mnoho dalšího
 
